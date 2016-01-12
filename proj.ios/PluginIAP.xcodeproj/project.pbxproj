@@ -234,7 +234,7 @@
 				GCC_PREFIX_HEADER = "IOSIAP/PluginIAP-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../../protocols/platform/ios",
+					"$(SRCROOT)/../../../cocos2d/plugin/protocols/platform/ios",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = PluginIAP;
@@ -255,7 +255,7 @@
 				GCC_PREFIX_HEADER = "IOSIAP/PluginIAP-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../../protocols/platform/ios",
+					"$(SRCROOT)/../../../cocos2d/plugin/protocols/platform/ios",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = PluginIAP;
